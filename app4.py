@@ -116,7 +116,8 @@ st.markdown("""
         font-family: 'Montserrat';
         font-size: 1.8rem;
         font-weight: 600;
-        color: #E8B9B9;
+        # color: #E8B9B9;
+        color: #2B1E4B;
         font-style: italic;
         margin: 1.5rem 0;
         line-height: 1;
