@@ -132,7 +132,7 @@ st.markdown("""
     }
     
     .hero-con5 {
-        font-family: 'Montserrat';
+        font-family: 'Roboto';
         font-size: 1.5rem;
         color: #666666;
         margin: 1.5rem 0;
