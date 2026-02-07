@@ -114,7 +114,7 @@ st.markdown("""
 
     .hero-con3 {
         font-family: 'Montserrat';
-        font-size: 1.5rem;
+        font-size: 1.8rem;
         font-weight: 600;
         color: #E8B9B9;
         font-style: italic;
@@ -384,14 +384,6 @@ with col2:
     </div>
     """, unsafe_allow_html=True)
     
-    # st.markdown("<div class='hero-con3'>Soft Skills</div>", unsafe_allow_html=True)
-    # st.write("• Creativity and visual storytelling")
-    # st.write("• Strong sense of responsibility")
-    # st.write("• Time management and deadline awareness")
-    # st.write("• Teamwork and communication")
-    # st.write("• Willingness to learn and adapt")
-    # st.write("• Attention to detail")
-
 st.markdown("<br>", unsafe_allow_html=True)
 
 # Skills Images
