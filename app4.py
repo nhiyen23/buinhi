@@ -8,7 +8,7 @@ import streamlit as st
 
 # ===== PAGE CONFIG =====
 st.set_page_config(
-    page_title="Yen Nhi - Graphic Designer Portfolio",
+    page_title="Yen Nhi - Portfolio",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
