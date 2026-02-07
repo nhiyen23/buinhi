@@ -411,11 +411,21 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.write("• Designed posters, banners, and social media visuals for events and campaigns")
-st.write("• Collaborated with marketing teams to develop creative concepts")
-st.write("• Supported branding activities for workshops and seminars")
-st.write("• Assisted in content planning and visual direction")
-st.write("• Delivered designs under tight deadlines while maintaining quality")
+# st.write("• Designed posters, banners, and social media visuals for events and campaigns")
+# st.write("• Collaborated with marketing teams to develop creative concepts")
+# st.write("• Supported branding activities for workshops and seminars")
+# st.write("• Assisted in content planning and visual direction")
+# st.write("• Delivered designs under tight deadlines while maintaining quality")
+
+st.markdown("""
+<div class="coursework-group">
+  <div class="hero-con7">• Designed posters, banners, and social media visuals for events and campaigns</div>
+  <div class="hero-con7">• Collaborated with marketing teams to develop creative concepts</div>
+  <div class="hero-con7">• Supported branding activities for workshops and seminars</div>
+  <div class="hero-con7">• Assisted in content planning and visual direction</div>
+  <div class="hero-con7">• Delivered designs under tight deadlines while maintaining quality</div>  
+</div>
+""", unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
