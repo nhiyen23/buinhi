@@ -100,8 +100,17 @@ st.markdown("""
     .hero-con {
         font-family: 'Playfair Display';
         font-size: 4rem;
-        font-weight: 900;
+        font-weight: 700;
         color: #2B1E4B;
+        margin: 1.5rem 0;
+        line-height: 1;
+    }
+
+    .hero-con2 {
+        font-family: 'Playfair Display';
+        font-size: 4rem;
+        font-weight: 700;
+        color: #F5E1A8;
         margin: 1.5rem 0;
         line-height: 1;
     }
@@ -245,7 +254,7 @@ st.markdown("<div id='vision'>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='vision-box'>
-    <h2 class='hero-role'>Vision</h2>
+    <div class='hero-con2'>Vision</div>
     <p class='vision-text'>
         My vision is to become a professional graphic designer who creates impactful visual experiences that connect brands with people.
     </p>
