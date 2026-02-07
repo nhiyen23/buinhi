@@ -23,7 +23,7 @@ st.markdown("""
     
     html {scroll-behavior: smooth;}
     
-    .main {background-color: #F5F1E8;}
+    .main {background-color: #FDF8F5;}
     
     .block-container {
         padding: 2rem 2% !important;
