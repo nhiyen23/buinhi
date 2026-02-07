@@ -82,7 +82,7 @@ st.markdown("""
     
     .hero-subtitle {
         font-family: 'Montserrat';
-        font-size: 4rem;
+        font-size: 2rem;
         letter-spacing: 6px;
         color: #FFB6C1;
         margin-bottom: 1.5rem;
@@ -90,7 +90,7 @@ st.markdown("""
     
     .hero-title {
         font-family: 'Playfair Display';
-        font-size: 7rem;
+        font-size: 10rem;
         font-weight: 900;
         color: #2B1E4B;
         margin: 1.5rem 0;
