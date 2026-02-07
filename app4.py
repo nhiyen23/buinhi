@@ -300,16 +300,16 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
-st.write("→ Marketing Fundamentals")
-st.write("→ Digital Communication")
-st.write("→ Consumer Behavior")
-st.write("→ Branding Basics")
+st.write("• Marketing Fundamentals")
+st.write("• Digital Communication")
+st.write("• Consumer Behavior")
+st.write("• Branding Basics")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 st.markdown("<div class='hero-con3'>Additional Learning</div>", unsafe_allow_html=True)
-st.write("→ Self-study Graphic Design via online courses and practice projects")
-st.write("→ Experience in club media teams and event communication")
+st.write("• Self-study Graphic Design via online courses and practice projects")
+st.write("• Experience in club media teams and event communication")
 
 st.markdown("</div>", unsafe_allow_html=True)
 
