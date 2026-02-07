@@ -360,7 +360,7 @@ st.markdown("""
 <div class='exp-card'>
     <div class='hero-con3'>IPC Organizations</div>
     <div class='hero-con4'>Media & Marketing Member</div>
-    <p style='color: #999999; font-size: 1rem; font-style: italic; margin-bottom: 2rem;'>[2024 – 2025]</p>
+    <p style='color: #999999; font-size: 1rem; font-style: italic; margin-bottom: 0.5rem;'>[2024 – 2025]</p>
 </div>
 """, unsafe_allow_html=True)
 
