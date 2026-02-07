@@ -141,6 +141,17 @@ st.markdown("""
         letter-spacing: 0.3px;
         }
     }
+
+    .hero-con6 {
+        font-family: 'Montserrat';
+        font-size: 1.3rem;
+        color: #F5F1E8;
+        margin: 1.5rem 0;
+        .text {
+        line-height: 1.4;
+        letter-spacing: 0.3px;
+        }
+    }
     
     .hero-role {
         font-family: 'Playfair Display';
@@ -282,9 +293,9 @@ st.markdown("<div id='vision'>", unsafe_allow_html=True)
 st.markdown("""
 <div class='vision-box'>
     <div class='hero-con2'>Vision</div>
-    <div class='hero-con5'>My vision is to become a professional graphic designer who creates impactful visual experiences that connect brands with people.
+    <div class='hero-con6'>My vision is to become a professional graphic designer who creates impactful visual experiences that connect brands with people.
     </div>
-    <div class='hero-con5'>I aim to develop strong design thinking, master industry-standard tools, and continuously explore new trends in digital design. In the long term, I hope to work in creative teams where collaboration, innovation, and storytelling play key roles in building meaningful products and campaigns.
+    <div class='hero-con6'>I aim to develop strong design thinking, master industry-standard tools, and continuously explore new trends in digital design. In the long term, I hope to work in creative teams where collaboration, innovation, and storytelling play key roles in building meaningful products and campaigns.
     </div>
 </div>
 """, unsafe_allow_html=True)
