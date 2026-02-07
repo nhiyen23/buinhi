@@ -43,7 +43,7 @@ st.markdown("""
     p, li {
         font-family: 'Montserrat';
         color: #666666;
-        font-size: 1.05rem;
+        font-size: 1.2rem;
         line-height: 1.8;
     }
     
@@ -106,7 +106,7 @@ st.markdown("""
     
     .hero-location {
         font-family: 'Montserrat';
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         color: #666666;
         letter-spacing: 4px;
     }
