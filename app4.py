@@ -388,7 +388,7 @@ with col1:
 
 # Project 2: Glowbies
 with col2:
-    st.markdown("### Community Project – Glowbies")
+    st.markdown("<div class='hero-con3'>Community Project – Glowbies</div>", unsafe_allow_html=True)
     st.image("images/glowbies.jpg", use_container_width=True)
     st.write("Designed branding materials for children-focused community project. Created posters and fundraising visuals while supporting storytelling through warm color palettes and friendly layouts.")
     st.markdown("<p style='color: #2B1E4B; margin-top: 1rem;'><strong>Tools:</strong> Illustrator, Photoshop</p>", unsafe_allow_html=True)
