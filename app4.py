@@ -25,6 +25,14 @@ st.markdown("""
     
     .main {background-color: #FDF8F5;}
     
+    [data-testid="stAppViewContainer"] {
+    background-color: #FDF8F5 !important;
+    }
+
+    [data-testid="stHeader"] {
+    background-color: rgba(0,0,0,0) !important;
+    }
+    
     .block-container {
         padding: 2rem 2% !important;
         max-width: 70% !important;
