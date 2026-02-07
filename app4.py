@@ -41,7 +41,7 @@ st.markdown("""
     }
     
     p, li {
-        font-family: 'Lato';
+        font-family: 'Montserrat';
         color: #666666;
         font-size: 1.05rem;
         line-height: 1.8;
@@ -80,7 +80,7 @@ st.markdown("""
     }
     
     .hero-subtitle {
-        font-family: 'Lato', sans-serif;
+        font-family: 'Montserrat';
         font-size: 1rem;
         letter-spacing: 6px;
         color: #FFB6C1;
@@ -105,7 +105,7 @@ st.markdown("""
     }
     
     .hero-location {
-        font-family: 'Lato', sans-serif;
+        font-family: 'Montserrat';
         font-size: 1.1rem;
         color: #666666;
         letter-spacing: 4px;
