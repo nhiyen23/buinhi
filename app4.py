@@ -28,8 +28,8 @@ st.markdown("""
     .block-container {
         padding: 2rem 2% !important;
         max-width: 90% !important;
-        margin-left: 10px !important;
-        margin-right: 10px !important;
+        margin-left: 30px !important;
+        margin-right: 30px !important;
     }
     
     h1, h2, h3 {
