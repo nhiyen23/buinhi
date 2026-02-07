@@ -30,16 +30,6 @@ st.markdown("""
     [data-testid="stHeader"] {
     background-color: rgba(0,0,0,0) !important;
     }
-
-    .nav-bar {
-    width: 100vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
-    background: #FDF8F5;
-    }
     
     .block-container {
         padding: 2rem 2% !important;
