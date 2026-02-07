@@ -324,21 +324,20 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
-# st.markdown("<div class='hero-con5'>• Marketing Fundamentals</div>", unsafe_allow_html=True)
-# st.markdown("<div class='hero-con5'>• Digital Communication</div>", unsafe_allow_html=True)
-# st.markdown("<div class='hero-con5'>• Consumer Behavior</div>", unsafe_allow_html=True)
-# st.markdown("<div class='hero-con5'>• Branding Basics</div>", unsafe_allow_html=True)
-# st.write("• Marketing Fundamentals")
-# st.write("• Digital Communication")
-# st.write("• Consumer Behavior")
-# st.write("• Branding Basics")
-
 st.markdown("<br>", unsafe_allow_html=True)
 
-st.markdown("<div class='hero-con3'>Additional Learning</div>", unsafe_allow_html=True)
-st.write("• Self-study Graphic Design via online courses and practice projects")
-st.write("• Experience in club media teams and event communication")
+st.markdown("""
+<div class="hero-con3">Additional Learning</div>
+
+<div class="coursework-group">
+  <div class="hero-con5">• Self-study Graphic Design via online courses and practice projects</div>
+  <div class="hero-con5">• Experience in club media teams and event communication</div>
+</div>
+""", unsafe_allow_html=True)
+
+# st.markdown("<div class='hero-con3'>Additional Learning</div>", unsafe_allow_html=True)
+# st.write("• Self-study Graphic Design via online courses and practice projects")
+# st.write("• Experience in club media teams and event communication")
 
 st.markdown("</div>", unsafe_allow_html=True)
 
