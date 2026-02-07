@@ -314,6 +314,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con5'>• Marketing Fundamentals</div>", unsafe_allow_html=True)
 st.write("• Marketing Fundamentals")
 st.write("• Digital Communication")
 st.write("• Consumer Behavior")
