@@ -17,13 +17,10 @@ st.markdown("""
     
     html {scroll-behavior: smooth;}
   
-    # [data-testid="stAppViewContainer"] {
-    # background-color: #FDF8F5 !important;
-    # }
-    # html, body {
-    # background-color: #FDF8F5 !important;
-    # }
-    
+    [data-testid="stAppViewContainer"] {
+    background-color: #FDF8F5 !important;
+    }
+ 
     [data-testid="stHeader"] {
     background-color: rgba(0,0,0,0) !important;
     }
