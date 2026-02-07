@@ -74,7 +74,7 @@ st.markdown("""
         text-align: center;
         padding: 8rem 2rem 6rem;
         margin: 0 -8%;
-        background: #F5F1E8;
+        background: #FDF8F5;
     }
     
     .hero-subtitle {
