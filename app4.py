@@ -99,7 +99,7 @@ st.markdown("""
     
     .hero-role {
         font-family: 'Playfair Display';
-        font-size: 2rem;
+        font-size: 3rem;
         color: #666666;
         font-style: italic;
         margin: 2rem 0 1rem;
