@@ -155,7 +155,7 @@ st.markdown("""
 
     .hero-con7 {
         font-family: 'Montserrat';
-        font-size: 1.1rem;
+        font-size: 1.15rem;
         color: #7A7A7A;
         margin: 1.5rem 0;
         .text {
@@ -341,8 +341,8 @@ st.markdown("""
 <div class="hero-con3">Additional Learning</div>
 
 <div class="coursework-group">
-  <div class="hero-con5">• Self-study Graphic Design via online courses and practice projects</div>
-  <div class="hero-con5">• Experience in club media teams and event communication</div>
+  <div class="hero-con7">• Self-study Graphic Design via online courses and practice projects</div>
+  <div class="hero-con7">• Experience in club media teams and event communication</div>
 </div>
 """, unsafe_allow_html=True)
 
@@ -355,13 +355,27 @@ st.markdown("<div class='hero-con'>Personal Skills</div>", unsafe_allow_html=Tru
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("<div class='hero-con3'>Hard Skills</div>", unsafe_allow_html=True)
-    st.write("• Graphic Design: Canva, Adobe Illustrator, Photoshop")
-    st.write("• Layout Design for posters, banners, social media posts")
-    st.write("• Basic UI/Visual thinking for web content")
-    st.write("• Branding fundamentals")
-    st.write("• Content visualization")
-    st.write("• Basic HTML/CSS")
+    st.markdown("""
+    <div class="hero-con3">Additional Learning</div>
+    
+    <div class="coursework-group">
+      <div class="hero-con7">• Graphic Design: Canva, Adobe Illustrator, Photoshop</div>
+      <div class="hero-con7">• Layout Design for posters, banners, social media posts</div>
+      <div class="hero-con7">• Basic UI/Visual thinking for web content</div>
+      <div class="hero-con7">• Layout Design for posters, banners, social media posts</div>
+      <div class="hero-con7">• Branding fundamentals</div>
+      <div class="hero-con7">• Content visualization</div>
+      <div class="hero-con7">• Basic HTML/CSS</div>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # st.markdown("<div class='hero-con3'>Hard Skills</div>", unsafe_allow_html=True)
+    # st.write("• Graphic Design: Canva, Adobe Illustrator, Photoshop")
+    # st.write("• Layout Design for posters, banners, social media posts")
+    # st.write("• Basic UI/Visual thinking for web content")
+    # st.write("• Branding fundamentals")
+    # st.write("• Content visualization")
+    # st.write("• Basic HTML/CSS")
 
 with col2:
     st.markdown("<div class='hero-con3'>Soft Skills</div>", unsafe_allow_html=True)
