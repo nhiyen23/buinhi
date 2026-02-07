@@ -100,7 +100,7 @@ st.markdown("""
     .hero-con {
         font-family: 'Playfair Display';
         font-size: 4rem;
-        font-weight: 700;
+        font-weight: 800;
         color: #2B1E4B;
         margin: 1.5rem 0;
         line-height: 1;
@@ -109,7 +109,7 @@ st.markdown("""
     .hero-con2 {
         font-family: 'Playfair Display';
         font-size: 4rem;
-        font-weight: 700;
+        font-weight: 800;
         color: #F5E1A8;
         margin: 1.5rem 0;
         line-height: 1;
