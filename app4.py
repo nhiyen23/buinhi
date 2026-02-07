@@ -315,10 +315,13 @@ st.markdown("""
 
 st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
 st.markdown("<div class='hero-con5'>• Marketing Fundamentals</div>", unsafe_allow_html=True)
-st.write("• Marketing Fundamentals")
-st.write("• Digital Communication")
-st.write("• Consumer Behavior")
-st.write("• Branding Basics")
+st.markdown("<div class='hero-con5'>• Digital Communication</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con5'>• Consumer Behavior</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con5'>• Branding Basics</div>", unsafe_allow_html=True)
+# st.write("• Marketing Fundamentals")
+# st.write("• Digital Communication")
+# st.write("• Consumer Behavior")
+# st.write("• Branding Basics")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
