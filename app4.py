@@ -96,6 +96,15 @@ st.markdown("""
         margin: 1.5rem 0;
         line-height: 1;
     }
+
+    .hero-con {
+        font-family: 'Playfair Display';
+        font-size: 7rem;
+        font-weight: 900;
+        color: #2B1E4B;
+        margin: 1.5rem 0;
+        line-height: 1;
+    }
     
     .hero-role {
         font-family: 'Playfair Display';
@@ -216,7 +225,7 @@ st.markdown("""
 
 # ===== ABOUT =====
 st.markdown("<div id='about'>", unsafe_allow_html=True)
-st.markdown("<h2 class='hero-role'>About Me</h2>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con'>About Me</div>", unsafe_allow_html=True)
 
 col1, col2 = st.columns([1.2, 1])
 
