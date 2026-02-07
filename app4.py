@@ -27,8 +27,8 @@ st.markdown("""
     .main {background-color: #F5F1E8;}
     
     .block-container {
-        padding: 2rem 8% !important;
-        max-width: 1400px !important;
+        padding: 2rem 2% !important;
+        max-width: max-width: 100% !important;
         margin: 0 auto !important;
     }
     
