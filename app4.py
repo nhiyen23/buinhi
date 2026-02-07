@@ -302,7 +302,7 @@ cols = st.columns(3)
 skill_images = [
     "images/skill_1.png",
     "images/skill_2.png",
-    "images/skill_3.png"
+    "images/slide4.png"
 ]
 for col, img in zip(cols, skill_images):
     with col:
