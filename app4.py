@@ -16,11 +16,13 @@ st.markdown("""
     #MainMenu, footer, .stDeployButton, header {visibility: hidden;}
     
     html {scroll-behavior: smooth;}
-    html, body,
-    [data-testid="stAppViewContainer"] {
+  
+    # [data-testid="stAppViewContainer"] {
+    # background-color: #FDF8F5 !important;
+    # }
+    html, body {
     background-color: #FDF8F5 !important;
     }
-
     [data-testid="stHeader"] {
     background-color: rgba(0,0,0,0) !important;
     }
