@@ -335,10 +335,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# st.markdown("<div class='hero-con3'>Additional Learning</div>", unsafe_allow_html=True)
-# st.write("• Self-study Graphic Design via online courses and practice projects")
-# st.write("• Experience in club media teams and event communication")
-
 st.markdown("</div>", unsafe_allow_html=True)
 
 # ===== SKILLS =====
