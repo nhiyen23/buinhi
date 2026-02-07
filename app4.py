@@ -1,9 +1,3 @@
-"""
-🎨 YEN NHI PORTFOLIO - DEPLOYMENT VERSION
-Ready for Streamlit Cloud deployment
-Images should be in /images/ folder in your GitHub repo
-"""
-
 import streamlit as st
 
 # ===== PAGE CONFIG =====
