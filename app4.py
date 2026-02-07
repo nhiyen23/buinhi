@@ -152,6 +152,17 @@ st.markdown("""
         letter-spacing: 0.3px;
         }
     }
+
+    .hero-con7 {
+        font-family: 'Montserrat';
+        font-size: 1.3rem;
+        color: #7A7A7A;
+        margin: 1.5rem 0;
+        .text {
+        line-height: 1;
+        letter-spacing: 0.3px;
+        }
+    }
     
     .hero-role {
         font-family: 'Playfair Display';
@@ -314,10 +325,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
-st.markdown("<div class='hero-con5'>• Marketing Fundamentals</div>", unsafe_allow_html=True)
-st.markdown("<div class='hero-con5'>• Digital Communication</div>", unsafe_allow_html=True)
-st.markdown("<div class='hero-con5'>• Consumer Behavior</div>", unsafe_allow_html=True)
-st.markdown("<div class='hero-con5'>• Branding Basics</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con7'>• Marketing Fundamentals</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con7'>• Digital Communication</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con7'>• Consumer Behavior</div>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con7'>• Branding Basics</div>", unsafe_allow_html=True)
 # st.write("• Marketing Fundamentals")
 # st.write("• Digital Communication")
 # st.write("• Consumer Behavior")
