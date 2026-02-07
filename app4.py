@@ -29,10 +29,10 @@ st.markdown("""
     .block-container {
         padding: 2rem 3% !important;
         max-width: 60% !important;
-        margin-top: 20px !important;
-        margin-bottom: 20px !important;
-        margin-left: 15px !important;
-        margin-right: 15px !important;
+        margin-top: 100px !important;
+        margin-bottom: 100px !important;
+        margin-left: 100px !important;
+        margin-right: 100px !important;
     }
     
     h1, h2, h3 {
