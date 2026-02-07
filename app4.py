@@ -46,7 +46,7 @@ st.markdown("""
     }
     
     .nav-bar {
-        background: #F5F1E8;
+        background: #FDF8F5;
         padding: 1.5rem 0;
         text-align: center;
         border-bottom: 1px solid rgba(43, 30, 75, 0.1);
