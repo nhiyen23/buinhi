@@ -44,7 +44,7 @@ st.markdown("""
     p, li {
         font-family: 'Montserrat';
         color: #666666;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         line-height: 1.8;
     }
     
