@@ -99,7 +99,7 @@ st.markdown("""
 
     .hero-con {
         font-family: 'Playfair Display';
-        font-size: 7rem;
+        font-size: 4rem;
         font-weight: 900;
         color: #2B1E4B;
         margin: 1.5rem 0;
