@@ -67,7 +67,7 @@ st.markdown("""
         color: #2B1E4B;
         text-decoration: none;
         margin: 0 1.5rem;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         transition: color 0.3s;
     }
     
@@ -82,7 +82,7 @@ st.markdown("""
     
     .hero-subtitle {
         font-family: 'Montserrat';
-        font-size: 1rem;
+        font-size: 1.5rem;
         letter-spacing: 6px;
         color: #FFB6C1;
         margin-bottom: 1.5rem;
@@ -107,7 +107,7 @@ st.markdown("""
     
     .hero-location {
         font-family: 'Montserrat';
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         color: #666666;
         letter-spacing: 4px;
     }
@@ -167,7 +167,7 @@ st.markdown("""
     
     .vision-text {
         color: white !important;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         line-height: 2;
     }
     
@@ -254,8 +254,8 @@ st.markdown("<h2 class='section-title'>Education</h2>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='content-box'>
-    <h3 style='font-size: 2rem; margin-bottom: 0.5rem;'>Second-year student in Economics</h3>
-    <p style='color: #FFB6C1; font-size: 1.1rem; margin-bottom: 2.5rem;'>Foreign Trade University (FTU)</p>
+    <h3 style='font-size: 1.5rem; margin-bottom: 0.5rem;'>Second-year student in Economics</h3>
+    <p style='color: #FFB6C1; font-size: 2rem; margin-bottom: 2.5rem;'>Foreign Trade University (FTU)</p>
 </div>
 """, unsafe_allow_html=True)
 
