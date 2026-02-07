@@ -41,7 +41,7 @@ st.markdown("""
     }
     
     p, li {
-        font-family: 'Lato', sans-serif;
+        font-family: 'Lato';
         color: #666666;
         font-size: 1.05rem;
         line-height: 1.8;
