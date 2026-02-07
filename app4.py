@@ -300,9 +300,9 @@ st.markdown("<br>", unsafe_allow_html=True)
 # Skills Images
 cols = st.columns(3)
 skill_images = [
-    "images/skill_1.png",
+    "images/slide4.png",
     "images/skill_2.png",
-    "images/slide4.png"
+    "images/skill_3.png"
 ]
 for col, img in zip(cols, skill_images):
     with col:
