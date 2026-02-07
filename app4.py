@@ -63,7 +63,7 @@ st.markdown("""
     
     .nav-bar a {
         font-family: 'Montserrat';
-        font-weight: 600;
+        font-weight: 500;
         color: #2B1E4B;
         text-decoration: none;
         margin: 0 1.5rem;
