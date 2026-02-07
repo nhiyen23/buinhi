@@ -442,14 +442,16 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown("<div class='hero-con3'>Event Promotion Design – IP Day</div>", unsafe_allow_html=True)
     st.image("images/ipday.jpg", use_container_width=True)
-    st.write("Designed poster and digital banners for Intellectual Property Day. Created visual identity aligned with event theme and produced social media posts for promotion.")
+    st.markdown("<div class='hero-con5'>Designed poster and digital banners for Intellectual Property Day. Created visual identity aligned with event theme and produced social media posts for promotion.</div>", unsafe_allow_html=True)
+    # st.write("Designed poster and digital banners for Intellectual Property Day. Created visual identity aligned with event theme and produced social media posts for promotion.")
     st.markdown("<p style='background: #FFF5F7; padding: 1rem; border-radius: 10px; border-left: 4px solid #FFB6C1;'><strong>Outcome:</strong> Increased event visibility and engagement</p>", unsafe_allow_html=True)
 
 # Project 2: Glowbies
 with col2:
     st.markdown("<div class='hero-con3'>Community Project – Glowbies</div>", unsafe_allow_html=True)
     st.image("images/glowbies.jpg", use_container_width=True)
-    st.write("Designed branding materials for children-focused community project. Created posters and fundraising visuals while supporting storytelling through warm color palettes and friendly layouts.")
+    # st.write("Designed branding materials for children-focused community project. Created posters and fundraising visuals while supporting storytelling through warm color palettes and friendly layouts.")
+    st.markdown("<div class='hero-con5'>Designed branding materials for children-focused community project. Created posters and fundraising visuals while supporting storytelling through warm color palettes and friendly layouts.</div>", unsafe_allow_html=True)
 
 st.markdown("</div>", unsafe_allow_html=True)
 
