@@ -216,7 +216,7 @@ st.markdown("""
 
 # ===== ABOUT =====
 st.markdown("<div id='about'>", unsafe_allow_html=True)
-st.markdown("<h2 class='section-title'>About Me</h2>", unsafe_allow_html=True)
+st.markdown("<h2 class='hero-role'>About Me</h2>", unsafe_allow_html=True)
 
 col1, col2 = st.columns([1.2, 1])
 
@@ -236,7 +236,7 @@ st.markdown("<div id='vision'>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='vision-box'>
-    <h2 class='vision-title'>Vision</h2>
+    <h2 class='hero-role'>Vision</h2>
     <p class='vision-text'>
         My vision is to become a professional graphic designer who creates impactful visual experiences that connect brands with people.
     </p>
