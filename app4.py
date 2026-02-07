@@ -152,6 +152,17 @@ st.markdown("""
         letter-spacing: 0.3px;
         }
     }
+
+    .hero-con7 {
+        font-family: 'Montserrat';
+        font-size: 1.1rem;
+        color: #7A7A7A;
+        margin: 1.5rem 0;
+        .text {
+        line-height: 1.4;
+        letter-spacing: 0.3px;
+        }
+    }
     
     .hero-role {
         font-family: 'Playfair Display';
@@ -317,10 +328,10 @@ st.markdown("""
 <div class="hero-con3">Relevant Coursework</div>
 
 <div class="coursework-group">
-  <div class="hero-con5">• Marketing Fundamentals</div>
-  <div class="hero-con5">• Digital Communication</div>
-  <div class="hero-con5">• Consumer Behavior</div>
-  <div class="hero-con5">• Branding Basics</div>
+  <div class="hero-con7">• Marketing Fundamentals</div>
+  <div class="hero-con7">• Digital Communication</div>
+  <div class="hero-con7">• Consumer Behavior</div>
+  <div class="hero-con7">• Branding Basics</div>
 </div>
 """, unsafe_allow_html=True)
 
