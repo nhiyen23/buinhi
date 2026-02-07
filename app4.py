@@ -67,7 +67,7 @@ st.markdown("""
         color: #2B1E4B;
         text-decoration: none;
         margin: 0 1.5rem;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         transition: color 0.3s;
     }
     
