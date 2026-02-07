@@ -44,7 +44,7 @@ st.markdown("""
     p, li {
         font-family: 'Montserrat';
         color: #666666;
-        font-size: 2rem;
+        font-size: 4rem;
         line-height: 1.8;
     }
     
@@ -67,7 +67,7 @@ st.markdown("""
         color: #2B1E4B;
         text-decoration: none;
         margin: 0 1.5rem;
-        font-size: 2rem;
+        font-size: 4rem;
         transition: color 0.3s;
     }
     
@@ -82,7 +82,7 @@ st.markdown("""
     
     .hero-subtitle {
         font-family: 'Montserrat';
-        font-size: 2rem;
+        font-size: 4rem;
         letter-spacing: 6px;
         color: #FFB6C1;
         margin-bottom: 1.5rem;
@@ -99,7 +99,7 @@ st.markdown("""
     
     .hero-role {
         font-family: 'Playfair Display';
-        font-size: 2rem;
+        font-size: 4rem;
         color: #666666;
         font-style: italic;
         margin: 2rem 0 1rem;
@@ -107,7 +107,7 @@ st.markdown("""
     
     .hero-location {
         font-family: 'Montserrat';
-        font-size: 2rem;
+        font-size: 4rem;
         color: #666666;
         letter-spacing: 4px;
     }
@@ -167,7 +167,7 @@ st.markdown("""
     
     .vision-text {
         color: white !important;
-        font-size: 2rem;
+        font-size: 4rem;
         line-height: 2;
     }
     
