@@ -259,7 +259,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # ===== EDUCATION =====
 st.markdown("<div id='education'>", unsafe_allow_html=True)
-st.markdown("<h2 class='section-title'>Education</h2>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con'>Education</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='content-box'>
