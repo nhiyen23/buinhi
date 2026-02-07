@@ -319,8 +319,8 @@ st.markdown("<div class='hero-con'>Education</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='content-box'>
-    <div class='hero-con3'>Second-year student in Economics</div>
-    <div class='hero-con4'>Foreign Trade University (FTU)</div>
+    <div class='hero-con4'>Second-year student in Economics</div>
+    <div class='hero-con3'>Foreign Trade University (FTU)</div>
 </div>
 """, unsafe_allow_html=True)
 
