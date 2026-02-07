@@ -99,7 +99,7 @@ st.markdown("""
     
     .hero-role {
         font-family: 'Playfair Display';
-        font-size: 4rem;
+        font-size: 2rem;
         color: #666666;
         font-style: italic;
         margin: 2rem 0 1rem;
@@ -107,7 +107,7 @@ st.markdown("""
     
     .hero-location {
         font-family: 'Montserrat';
-        font-size: 4rem;
+        font-size: 1.5rem;
         color: #666666;
         letter-spacing: 4px;
     }
