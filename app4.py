@@ -374,7 +374,7 @@ with col1:
     st.markdown("### Event Promotion Design – IP Day")
     st.image("images/ipday.jpg", use_container_width=True)
     st.write("Designed poster and digital banners for Intellectual Property Day. Created visual identity aligned with event theme and produced social media posts for promotion.")
-    st.markdown("<p style='color: #2B1E4B; margin-top: 1rem;'><strong>Tools:</strong> Canva, Illustrator</p>", unsafe_allow_html=True)
+    st.markdown("<div class='hero-con'>About Me</div>", unsafe_allow_html=True)
     st.markdown("<p style='background: #FFF5F7; padding: 1rem; border-radius: 10px; border-left: 4px solid #FFB6C1;'><strong>Outcome:</strong> Increased event visibility and engagement</p>", unsafe_allow_html=True)
 
 # Project 2: Glowbies
