@@ -125,6 +125,15 @@ st.markdown("""
         line-height: 1;
     }
 
+    .hero-con4 {
+        font-family: 'Montserrat';
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #F5E1A8;
+        margin: 1.5rem 0;
+        line-height: 1;
+    }
+
     .hero-role {
         font-family: 'Playfair Display';
         font-size: 3rem;
@@ -282,12 +291,12 @@ st.markdown("<div class='hero-con'>Education</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='content-box'>
-    <h3 style='font-size: 1.5rem; margin-bottom: 0.5rem;'>Second-year student in Economics</h3>
-    <p style='color: #FFB6C1; font-size: 2rem; margin-bottom: 2.5rem;'>Foreign Trade University (FTU)</p>
+    <div class='hero-con3'>Second-year student in Economics</div>
+    <div class='hero-con4'>Foreign Trade University (FTU)</div>
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("#### Relevant Coursework")
+st.markdown("<div class='hero-con3'>Relevant Coursework</div>", unsafe_allow_html=True)
 st.write("→ Marketing Fundamentals")
 st.write("→ Digital Communication")
 st.write("→ Consumer Behavior")
@@ -295,7 +304,7 @@ st.write("→ Branding Basics")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-st.markdown("#### Additional Learning")
+st.markdown("<div class='hero-con3'>Additional Learning</div>", unsafe_allow_html=True)
 st.write("→ Self-study Graphic Design via online courses and practice projects")
 st.write("→ Experience in club media teams and event communication")
 
@@ -308,7 +317,7 @@ st.markdown("<div class='hero-con'>Personal Skills</div>", unsafe_allow_html=Tru
 col1, col2 = st.columns(2)
 
 with col1:
-    st.markdown("### Hard Skills")
+    st.markdown("<div class='hero-con3'>Hard Skills</div>", unsafe_allow_html=True)
     st.write("• Graphic Design: Canva, Adobe Illustrator, Photoshop")
     st.write("• Layout Design for posters, banners, social media posts")
     st.write("• Basic UI/Visual thinking for web content")
@@ -317,7 +326,7 @@ with col1:
     st.write("• Basic HTML/CSS")
 
 with col2:
-    st.markdown("### Soft Skills")
+    st.markdown("<div class='hero-con3'>Soft Skills</div>", unsafe_allow_html=True)
     st.write("• Creativity and visual storytelling")
     st.write("• Strong sense of responsibility")
     st.write("• Time management and deadline awareness")
@@ -346,7 +355,7 @@ st.markdown("<div class='hero-con'>Experience</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='exp-card'>
-    <h3 style='font-size: 2rem; margin-bottom: 0.5rem;'>IPC Organizations</h3>
+    <div class='hero-con3'>IPC Organizations</div>
     <p style='color: #FFB6C1; font-size: 1.1rem; font-style: italic; margin: 0.5rem 0 1rem;'>Media & Marketing Member</p>
     <p style='color: #999999; font-size: 1rem; font-style: italic; margin-bottom: 2rem;'>[2024 – 2025]</p>
 </div>
