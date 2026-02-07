@@ -30,8 +30,9 @@ st.markdown("""
         padding: 2rem 3% !important;
         max-width: 60% !important;
         margin-top: 20px !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
+        margin-bottom: 20px !important;
+        margin-left: 15px !important;
+        margin-right: 15px !important;
     }
     
     h1, h2, h3 {
