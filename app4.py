@@ -36,7 +36,7 @@ st.markdown("""
     }
     
     h1, h2, h3 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Playfair Display';
         color: #2B1E4B;
     }
     
