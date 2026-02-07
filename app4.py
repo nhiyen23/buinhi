@@ -264,7 +264,7 @@ col1, col2 = st.columns([1.2, 1])
 
 with col1:
     st.markdown("<div class='hero-con5'>Hello, I'm Yen Nhi, a passionate Graphic Design Intern candidate with a strong interest in visual communication and creative storytelling. I have hands-on experience in designing posters, banners, and digital content for student organizations and educational projects.</div>", unsafe_allow_html=True)
-    # st.write("Hello, I'm Yen Nhi, a passionate Graphic Design Intern candidate with a strong interest in visual communication and creative storytelling. I have hands-on experience in designing posters, banners, and digital content for student organizations and educational projects.")
+    st.write("Hello, I'm Yen Nhi, a passionate Graphic Design Intern candidate with a strong interest in visual communication and creative storytelling. I have hands-on experience in designing posters, banners, and digital content for student organizations and educational projects.")
     # st.write("With a background in Marketing and Communication activities, I understand not only how to design visually appealing products but also how to deliver messages effectively to target audiences. I enjoy transforming ideas into meaningful visuals and continuously improving my design skills through practice and real projects.")
     # st.write("I am currently seeking an internship opportunity where I can contribute my creativity, learn from professionals, and grow into a well-rounded graphic designer.")
    
