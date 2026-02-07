@@ -114,7 +114,16 @@ st.markdown("""
         margin: 1.5rem 0;
         line-height: 1;
     }
-    
+
+    .hero-con3 {
+        font-family: 'Montserrat';
+        font-size: 2rem;
+        font-weight: 300;
+        color: #E8B9B9;
+        margin: 1.5rem 0;
+        line-height: 1;
+    }
+
     .hero-role {
         font-family: 'Playfair Display';
         font-size: 3rem;
@@ -371,7 +380,7 @@ col1, col2 = st.columns(2)
 
 # Project 1: IP Day
 with col1:
-    st.markdown("<div class='hero-con'>Event Promotion Design – IP Day</div>", unsafe_allow_html=True)
+    st.markdown("<div class='hero-con3'>Event Promotion Design – IP Day</div>", unsafe_allow_html=True)
     st.image("images/ipday.jpg", use_container_width=True)
     st.write("Designed poster and digital banners for Intellectual Property Day. Created visual identity aligned with event theme and produced social media posts for promotion.")
     st.markdown("<p style='background: #FFF5F7; padding: 1rem; border-radius: 10px; border-left: 4px solid #FFB6C1;'><strong>Outcome:</strong> Increased event visibility and engagement</p>", unsafe_allow_html=True)
