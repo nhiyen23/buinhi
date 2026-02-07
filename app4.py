@@ -23,14 +23,22 @@ st.markdown("""
     
     html {scroll-behavior: smooth;}
     
-    .main {background-color: #FDF8F5;}
-    
     [data-testid="stAppViewContainer"] {
     background-color: #FDF8F5 !important;
     }
 
     [data-testid="stHeader"] {
     background-color: rgba(0,0,0,0) !important;
+    }
+
+    .nav-bar {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background: #FDF8F5;
     }
     
     .block-container {
