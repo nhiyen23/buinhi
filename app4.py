@@ -61,11 +61,12 @@ st.markdown("""
     }
     
     .nav-bar a {
-        font-family: 'Lato', sans-serif;
+        font-family: 'Lato';
+        font-weight: 700;
         color: #2B1E4B;
         text-decoration: none;
         margin: 0 1.5rem;
-        font-size: 1rem;
+        font-size: 2rem;
         transition: color 0.3s;
     }
     
