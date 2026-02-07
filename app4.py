@@ -284,7 +284,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # ===== SKILLS =====
 st.markdown("<div id='skills'>", unsafe_allow_html=True)
-st.markdown("<h2 class='section-title'>Personal Skills</h2>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con'>Personal Skills</div>", unsafe_allow_html=True)
 
 col1, col2 = st.columns(2)
 
@@ -323,7 +323,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # ===== EXPERIENCE =====
 st.markdown("<div id='experience'>", unsafe_allow_html=True)
-st.markdown("<h2 class='section-title'>Experience</h2>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con'>Experience</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='exp-card'>
@@ -356,7 +356,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 # ===== PROJECTS =====
 st.markdown("<div id='projects'>", unsafe_allow_html=True)
-st.markdown("<h2 class='section-title'>Projects</h2>", unsafe_allow_html=True)
+st.markdown("<div class='hero-con'>Projects</div>", unsafe_allow_html=True)
 
 col1, col2 = st.columns(2)
 
@@ -381,10 +381,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("""
 <div style='text-align: center; padding: 3rem 2rem; margin-top: 4rem; border-top: 1px solid rgba(43, 30, 75, 0.1);'>
     <p style='font-family: Lato, sans-serif; color: #666666; margin: 0;'>
-        © 2025 Yen Nhi - Graphic Designer Portfolio
-    </p>
-    <p style='font-family: Lato, sans-serif; color: #999999; margin: 0.5rem 0 0 0; font-size: 0.9rem;'>
-        Designed with creativity and passion 🎨
+        © 2026 Yen Nhi - Graphic Designer Portfolio
     </p>
 </div>
 """, unsafe_allow_html=True)
