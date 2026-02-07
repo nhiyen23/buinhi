@@ -286,12 +286,6 @@ st.markdown("""
     </div>
     <div class='hero-con5'>I aim to develop strong design thinking, master industry-standard tools, and continuously explore new trends in digital design. In the long term, I hope to work in creative teams where collaboration, innovation, and storytelling play key roles in building meaningful products and campaigns.
     </div>
-    # <p class='vision-text'>
-    #     My vision is to become a professional graphic designer who creates impactful visual experiences that connect brands with people.
-    # </p>
-    # <p class='vision-text'>
-    #     I aim to develop strong design thinking, master industry-standard tools, and continuously explore new trends in digital design. In the long term, I hope to work in creative teams where collaboration, innovation, and storytelling play key roles in building meaningful products and campaigns.
-    # </p>
 </div>
 """, unsafe_allow_html=True)
 
