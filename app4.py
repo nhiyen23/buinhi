@@ -27,9 +27,9 @@ st.markdown("""
     
     .block-container {
         padding: 2rem 2% !important;
-        max-width: 80% !important;
-        margin-left: 0px !important;
-        margin-right: 0px !important;
+        max-width: 90% !important;
+        margin-left: 10px !important;
+        margin-right: 10px !important;
     }
     
     h1, h2, h3 {
