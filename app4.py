@@ -134,7 +134,7 @@ st.markdown("""
     .hero-con5 {
         font-family: 'Inter';
         font-size: 1.5rem;
-        color: #666666;
+        color: #4A4A4A;
         margin: 1.5rem 0;
         line-height: 1;
     }
