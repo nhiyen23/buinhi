@@ -89,7 +89,7 @@ st.markdown("""
     }
     
     .hero-title {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Playfair Display';
         font-size: 7rem;
         font-weight: 900;
         color: #2B1E4B;
