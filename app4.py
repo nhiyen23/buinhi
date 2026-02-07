@@ -117,8 +117,8 @@ st.markdown("""
 
     .hero-con3 {
         font-family: 'Montserrat';
-        font-size: 2rem;
-        font-weight: 300;
+        font-size: 1.5rem;
+        font-weight: 500;
         color: #E8B9B9;
         margin: 1.5rem 0;
         line-height: 1;
