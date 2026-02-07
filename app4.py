@@ -16,7 +16,7 @@ st.markdown("""
     #MainMenu, footer, .stDeployButton, header {visibility: hidden;}
     
     html {scroll-behavior: smooth;}
-    
+    html, body,
     [data-testid="stAppViewContainer"] {
     background-color: #FDF8F5 !important;
     }
