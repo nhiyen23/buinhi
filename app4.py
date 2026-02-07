@@ -129,7 +129,7 @@ st.markdown("""
         font-family: 'Montserrat';
         font-size: 1.5rem;
         font-weight: 500;
-        color: #F5E1A8;
+        color: #666666;
         margin: 1.5rem 0;
         line-height: 1;
     }
@@ -356,7 +356,7 @@ st.markdown("<div class='hero-con'>Experience</div>", unsafe_allow_html=True)
 st.markdown("""
 <div class='exp-card'>
     <div class='hero-con3'>IPC Organizations</div>
-    <p style='color: #FFB6C1; font-size: 1.1rem; font-style: italic; margin: 0.5rem 0 1rem;'>Media & Marketing Member</p>
+    <div class='hero-con4'>Media & Marketing Member</div>
     <p style='color: #999999; font-size: 1rem; font-style: italic; margin-bottom: 2rem;'>[2024 – 2025]</p>
 </div>
 """, unsafe_allow_html=True)
