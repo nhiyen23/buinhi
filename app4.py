@@ -224,7 +224,7 @@ with col1:
 
 with col2:
     # Image path for Streamlit Cloud - place image in /images/ folder
-    st.image("images/about_me.jpg", use_container_width=True)
+    st.image("images/anh_nhi.jpg", use_container_width=True)
 
 st.markdown("</div>", unsafe_allow_html=True)
 
