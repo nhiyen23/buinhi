@@ -208,7 +208,7 @@ st.markdown("""
 st.markdown("""
 <div id='home' class='hero'>
     <div class='hero-subtitle'>PORTFOLIO</div>
-    <h1 class='hero-title'>YEN NHI</h1>
+    <div class='hero-title'>YEN NHI</div>
     <div class='hero-role'>Graphic Designer Intern</div>
     <div class='hero-location'>HA NOI</div>
 </div>
