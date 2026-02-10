@@ -101,7 +101,6 @@ st.markdown("""
         color: #2B1E4B;
         margin: 1.5rem 0;
         line-height: 1;
-        animation-duration: 1s;
     }
 
     .hero-con2 {
@@ -140,7 +139,6 @@ st.markdown("""
         .text {
         line-height: 1.4;
         letter-spacing: 0.3px;
-        animation-duration: 1s;
         }
     }
 
