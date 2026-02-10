@@ -36,6 +36,7 @@ st.markdown("""
         font-family: 'Playfair Display';
         color: #2B1E4B;
         margin-bottom: 40px !important;
+        animation: fadeInDown 1s ease;
     }
     
     p, li {
@@ -43,6 +44,7 @@ st.markdown("""
         color: #666666;
         font-size: 4rem;
         line-height: 1.8;
+        animation: fadeInDown 1s ease;
     }
     
     .nav-bar {
@@ -66,6 +68,7 @@ st.markdown("""
         margin: 0 1.5rem;
         font-size: 1.2rem;
         transition: color 0.3s;
+        animation: fadeInDown 1s ease;
     }
     
     .nav-bar a:hover {color: #FFB6C1;}
