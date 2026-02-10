@@ -69,6 +69,18 @@ st.markdown("""
     }
     
     .nav-bar a:hover {color: #FFB6C1;}
+
+    /* Animations */
+    @keyframes fadeInDown {
+        from {
+            opacity: 0;
+            transform: translateY(-30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
     
     .hero {
         text-align: center;
@@ -83,6 +95,7 @@ st.markdown("""
         letter-spacing: 6px;
         color: #FFB6C1;
         margin-bottom: 1.5rem;
+        animation: fadeInDown 1s ease;
     }
     
     .hero-title {
@@ -92,6 +105,7 @@ st.markdown("""
         color: #2B1E4B;
         margin: 1.5rem 0;
         line-height: 1;
+        animation: fadeInDown 1s ease;
     }
 
     .hero-con {
@@ -101,6 +115,7 @@ st.markdown("""
         color: #2B1E4B;
         margin: 1.5rem 0;
         line-height: 1;
+        animation: fadeInDown 1s ease;
     }
 
     .hero-con2 {
@@ -110,6 +125,7 @@ st.markdown("""
         color: #F5E1A8;
         margin: 1.5rem 0;
         line-height: 1;
+        animation: fadeInDown 1s ease;
     }
 
     .hero-con3 {
@@ -120,6 +136,7 @@ st.markdown("""
         font-style: italic;
         margin: 1.5rem 0;
         line-height: 1;
+        animation: fadeInDown 1s ease;
     }
 
     .hero-con4 {
@@ -129,6 +146,7 @@ st.markdown("""
         color: #666666;
         margin: 1.5rem 0;
         line-height: 1;
+        animation: fadeInDown 1s ease;
     }
     
     .hero-con5 {
@@ -139,6 +157,7 @@ st.markdown("""
         .text {
         line-height: 1.4;
         letter-spacing: 0.3px;
+        animation: fadeInDown 1s ease;
         }
     }
 
@@ -150,6 +169,7 @@ st.markdown("""
         .text {
         line-height: 1.4;
         letter-spacing: 0.3px;
+        animation: fadeInDown 1s ease;
         }
     }
 
@@ -161,6 +181,7 @@ st.markdown("""
         .text {
         line-height: 1.4;
         letter-spacing: 0.3px;
+        animation: fadeInDown 1s ease;
         }
     }
     
@@ -170,6 +191,7 @@ st.markdown("""
         color: #666666;
         font-style: italic;
         margin: 2rem 0 1rem;
+        animation: fadeInDown 1s ease;
     }
     
     .hero-location {
@@ -177,6 +199,7 @@ st.markdown("""
         font-size: 1.5rem;
         color: #666666;
         letter-spacing: 4px;
+        animation: fadeInDown 1s ease;
     }
     
     .section-title {
@@ -187,6 +210,7 @@ st.markdown("""
         margin: 3rem 0 2rem 0;
         position: relative;
         display: inline-block;
+        animation: fadeInDown 1s ease;
     }
     
     .section-title::after {
@@ -220,6 +244,7 @@ st.markdown("""
         margin-bottom: 2rem;
         position: relative;
         display: inline-block;
+        animation: fadeInDown 1s ease;
     }
     
     .vision-title::after {
@@ -236,6 +261,7 @@ st.markdown("""
         color: white !important;
         font-size: 4rem;
         line-height: 2;
+        animation: fadeInDown 1s ease;
     }
     
     .exp-card {
